@@ -36,7 +36,7 @@
 
 
                         </div>
-                        <a href="{{ route('Jadwal.show') }}">Detail Jadwal</a>
+                        <a type="button" class="btn btn-dark" href="{{ route('Jadwal.show') }}">Detail Jadwal</a>
 
 
 

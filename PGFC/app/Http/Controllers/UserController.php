@@ -111,7 +111,7 @@ class UserController extends Controller
 
             if(count($userData) >0){
 
-                return view('referral.referralRegister', compact('referral'));
+                return view('referral.referralRegister', ['referral'=>$referral]);
 
             }else{
                 return view('errors.404');

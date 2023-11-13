@@ -51,7 +51,8 @@
         <div class="card">
             <div class="card-body">
                 <div class="d-flex align-items-start justify-content-between">
-                    <div class="d-flex">
+                    <div class="d-flex
+                    ">
                         <a class="me-3" href="#">
                             <img class="avatar-md rounded-circle bx-s"
                                 src="{{ url('frontend/images/upcoming/LogoSekolah/SMA NU 1 GRESIK.jpg') }}" alt="" width="100px"" alt="">
